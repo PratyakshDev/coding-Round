@@ -1,5 +1,7 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+NOTE: # I did most of the functionality the functionality which I was not able to done because of time issue was navigatiing to color details while clickng on the favourites buttons and for navigation to favourites screen I have added the button at very top and I'm not that much familiar with redux so for now I have used contextApi for storing the colors and other data to show on favourites screen for not we can select and unselected favourite colors and and alert will also comeup after again clicking on the same button And we will navigate to colorDeatils when we will click on any color View in the home screen.
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
@@ -71,6 +73,8 @@ If you can't get this to work, see the [Troubleshooting](https://reactnative.dev
 # Learn More
 
 To learn more about React Native, take a look at the following resources:
+
+
 
 - [React Native Website](https://reactnative.dev) - learn more about React Native.
 - [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
